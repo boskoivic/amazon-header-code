@@ -1,0 +1,174 @@
+.spacer5 { height: 5px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer10 { height: 10px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer15 { height: 15px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer20 { height: 20px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer25 { height: 25px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer30 { height: 30px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer35 { height: 35px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer40 { height: 40px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer45 { height: 45px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer50 { height: 50px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer100 { height: 100px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+.spacer200 { height: 200px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block; }
+
+.headimg {
+    background-image: url(http://g-ecx.images-amazon.com/images/G/01/Airstream/Airstream_PC_1x_Mar2016_T2._CB295987025_.jpg);
+    background-repeat: no-repeat;
+    height:55px;
+}
+.sex {
+    background-image: url(http://g-ecx.images-amazon.com/images/G/01/kindle/merch/2016/F/f-soundcompvideo-gw16-1500x300._CB272796746_.png);
+    background-origin:left;
+    height: 300px;
+}
+
+.profile-wrap {
+    background-color: #232f3e;
+}
+.profile-image {
+    padding: 5px 5px 5px 15px;
+}
+.search-bar {
+       background-color: #232f3e;
+       height: 170px;
+}
+.white-text {
+    color:white;
+}
+.that-nav {
+    position: relative;
+    bottom:30px;
+    color:#ccc;
+}
+.amazon-logo {
+    position: relative;
+    top: 10px;
+    background:url(http://g-ecx.images-amazon.com/images/G/01/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB295592520_.png) 40px -40px;
+    height: 42px;
+    max-width: 180px
+}
+#departments {
+    position: relative;
+    bottom: 30px;
+    left: 40px ;
+    color:white;
+    font-weight:bold;
+}
+#chart-nav{
+    position: relative;
+    bottom:70px;
+    color:white;
+    font-weight:bold;
+    width:340px;
+    height: 20px;
+}
+
+#chart-nav span{
+    color: #ccc;
+    font-weight:normal;
+}
+
+.under-header-wrapper{
+    height: 100px
+}
+.departments span{
+    position: relative;
+    bottom:50px;
+    color:white;
+    left:130px;
+    
+}
+.account-nav {
+    display: flex;
+    justify-content: space-between;
+    float:left;
+    position: relative;
+    bottom:50px;
+    color: white;
+     font-weight: bold;
+}
+.account-nav span {
+    font-weight: normal;
+    color:#ccc;
+}
+.account-nav ul {
+    display: flex;
+    justify-content: center;
+}
+.account-nav ul li,.account-nav span{
+    display: flex;
+    align-items: flex-start;
+    padding: 0.1rem 0.55rem;
+}
+.account{
+    position:relative;
+    bottom:20px;
+}
+.account span{
+    font-size: 13px;
+    color:#ccc;
+    font-weight: normal;
+}
+.top-nav {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap:wrap;
+  font-weight: bold;
+  color:white;
+  position: relative;
+  bottom:30px;
+  height:20px;
+}
+.link1 {
+    padding: 0px;;
+    margin-left:55px;
+    width:6.1;
+}
+.link1 a {
+    color: white;
+    text-decoration: none;
+}
+.link2 {
+    padding: 0px;;
+    flex-grow:4;
+     color:#ccc;
+     font-weight: normal;
+}
+.link2 ul{
+   display: flex;
+   list-style: none;
+}
+.link2 ul li{
+ padding: 0px 10px;
+
+ 
+}
+.link3 {
+    padding: 0px;
+    position:relative;
+
+}
+.link3 ul {
+    list-style: none;
+    display:flex;
+}
+.link3 ul li {
+   padding-right: 20px
+}
+.fa-search {
+ position: relative;
+ top:6px;
+ left:12px;
+ color:#111;
+}
+.search-img {
+    z-index: 2;
+    position: relative;
+    bottom:44px;
+    left:27px;
+    background:#febd69;
+    height: 34px;
+    width:42px;
+    float: right;
+    border-radius: 0 5px 5px 0;
+}
